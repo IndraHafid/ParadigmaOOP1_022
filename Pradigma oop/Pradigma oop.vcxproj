@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="MainJA.cpp" />
     <ClCompile Include="mainJM.cpp" />
     <ClCompile Include="Pradigma oop.cpp" />
     <ClCompile Include="Komposisi.cpp" />
