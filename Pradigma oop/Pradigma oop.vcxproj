@@ -132,6 +132,7 @@
     <ClCompile Include="Komposisi.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Anak.h" />
     <ClInclude Include="Jantung.h" />
     <ClInclude Include="Manusia.h" />
   </ItemGroup>
