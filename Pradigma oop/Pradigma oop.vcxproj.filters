@@ -18,14 +18,14 @@
     <ClCompile Include="Pradigma oop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Komposisi.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="mainJM.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
     <ClCompile Include="MainJA.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dokter.cpp">
+      <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

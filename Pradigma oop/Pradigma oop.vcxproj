@@ -127,10 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Dokter.cpp" />
     <ClCompile Include="MainJA.cpp" />
     <ClCompile Include="mainJM.cpp" />
     <ClCompile Include="Pradigma oop.cpp" />
-    <ClCompile Include="Komposisi.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Anak.h" />
