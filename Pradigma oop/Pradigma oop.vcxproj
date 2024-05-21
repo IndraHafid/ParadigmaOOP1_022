@@ -127,12 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="mainJM.cpp" />
     <ClCompile Include="Pradigma oop.cpp" />
     <ClCompile Include="Komposisi.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Jntung.h" />
-    <ClInclude Include="MANUSIA.h" />
+    <ClInclude Include="Jantung.h" />
+    <ClInclude Include="Manusia.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
