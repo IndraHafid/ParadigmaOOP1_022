@@ -18,5 +18,13 @@
     <ClCompile Include="Pradigma oop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Komposisi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Jntung.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
