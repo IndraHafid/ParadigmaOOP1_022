@@ -130,6 +130,7 @@
     <ClCompile Include="Dokter.cpp" />
     <ClCompile Include="MainJA.cpp" />
     <ClCompile Include="mainJM.cpp" />
+    <ClCompile Include="Pelajar.cpp" />
     <ClCompile Include="Pradigma oop.cpp" />
   </ItemGroup>
   <ItemGroup>
