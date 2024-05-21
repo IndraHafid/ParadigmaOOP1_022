@@ -133,6 +133,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Anak.h" />
+    <ClInclude Include="Ibu.h" />
     <ClInclude Include="Jantung.h" />
     <ClInclude Include="Manusia.h" />
   </ItemGroup>
